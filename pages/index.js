@@ -14,11 +14,14 @@ export default function Home() {
       <main>
         <Header title="My name is Rattanachai" />
         <p className="description">
-          I have my own application name <code>wiangwaiHub</code>          
+          I'm creator of <code>wiangwaiHub</code>          
         </p>
-
-        <Link href="https://nextjs.org">  
-          <a>Next.js</a>
+        <Link href="https://kokira.app/wwnetwork">  
+          <a>On Android</a>
+           </Link>
+        
+        <Link href="https://kokira.app/wwnetwork">  
+          <a>On iOS</a>
            </Link>
     
 
