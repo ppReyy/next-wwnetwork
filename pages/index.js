@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to wiangwai app!" />
+        <Header title="My name is Rattanachai" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          I have my own application name <code>wiangwaiHub</code> 
         </p>
       </main>
 
