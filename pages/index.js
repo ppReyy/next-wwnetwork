@@ -15,6 +15,11 @@ export default function Home() {
         <p className="description">
           I have my own application name <code>wiangwaiHub</code> 
         </p>
+        <Header title="On iOS and Android" />
+        <p className="description">
+          I have my own application name <code>wiangwaiHub</code> 
+        </p>
+        
       </main>
 
       <Footer />
