@@ -15,12 +15,9 @@ export default function Home() {
         <Header title="My name is Rattanachai" />
         <p className="description">
           I have my own application name <code>wiangwaiHub</code>
-          <Link href="https://nextjs.org">   //external page
-          <a>Next.js</a>
-         </Link>
+
         </p>
-        <Header title="On iOS and Android" />
-        
+
         
       </main>
 
