@@ -14,11 +14,13 @@ export default function Home() {
       <main>
         <Header title="My name is Rattanachai" />
         <p className="description">
-          I have my own application name <code>wiangwaiHub</code>
-          <Link href="https://nextjs.org">   //external page
+          I have my own application name <code>wiangwaiHub</code>          
+        </p>
+
+        <Link href="https://nextjs.org">  
           <a>Next.js</a>
            </Link>
-        </p>
+    
 
         
       </main>
